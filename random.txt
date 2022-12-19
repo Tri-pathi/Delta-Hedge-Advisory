@@ -1,0 +1,8 @@
+home page-template-default page page-id-9
+cell small-6 medium-1
+cell medium-12 large-8
+cell hide-for-medium-only large-4
+logo-small
+burger.svg
+cell small-6 medium-1
+and all cells
